@@ -9,10 +9,12 @@ SZ2528/SZ2528 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-欢迎！
+Welcome!!!
 
-我是 SZ2528
+You can find me at [Bilibili](https://space.bilibili.com/1283447381) and [GitHub](https://github.com/SZ2528) .
 
-你可以在 [B站](https://space.bilibili.com/1283447381) 和 [GitHub](https://github.com/SZ2528) 上找到我。
+![SZ2528's GitHub stats](https://github-readme-stats.vercel.app/api?username=sz2528&show_icons=true&locale=en)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sz2528&layout=compact)
 
 <!---doge--->
