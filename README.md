@@ -1,4 +1,4 @@
-<!---
+Your name may appear around GitHub where you contribute or are mentioned. You can remove it at any time.<!---
 - 👋🏻 Hi, I’m @SZ2528
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---¿¿¿--->
 
-全民制作人大家好，我是练习了`C艹`四年半、练习`Wếb`两个月半的个人练习生，`Rain-0x01`，喜欢唱、跳、rap、[诈骗](https://doge.25-rain01.top/posts/2023/10/05/answer.html)。
+全民制作人大家好，我是练习了`C艹`四年半、练习`t0uch fish`两个月半的个人练习生，`Rain-0x01`，喜欢唱、跳、rap、[诈骗](https://doge.25-rain01.top/posts/2023/10/05/answer.html)。
 
 ~~什么玩意~~
 
